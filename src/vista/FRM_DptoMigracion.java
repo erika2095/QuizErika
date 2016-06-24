@@ -1,4 +1,4 @@
-
+// Erika Sanchez Torrez B56698
 package vista;
 
 import controlador.Controlador_DptoMigracion;
